@@ -1,0 +1,580 @@
+RECORD_ID,DATE,FACILITY_ID,ITEM_NAME,CATEGORY,OPENING_STOCK,RECEIVED_QTY,ISSUED_QTY,CLOSING_STOCK,LEAD_TIME_DAYS,CRITICALITY_LEVEL
+8b43c7d7-3043-4379-aa75-b491816ab85b,2025-12-19,RS1,Metformin 500mg,Chronic,320,11,11,320,5,Medium
+b523706a-48ca-4c5c-bd8e-2ee6e6115c80,2025-12-19,RS1,Artemether (Malaria),Infectious,238,7,20,225,6,High
+fb99da4e-5a25-49ec-9a0e-aa9a002be067,2025-12-19,RS1,HIV Rapid Test Kit,Diagnostic,311,5,13,303,5,High
+92c1ab8c-8151-4ed6-8139-3c09bdf950e0,2025-12-19,RS1,Oral Rehydration Salts,General,301,17,15,303,3,Medium
+e2f28f4e-fa98-4f2b-863e-d067cd4d1ada,2025-12-19,RS1,Surgical Masks,Consumable,268,9,6,271,4,Low
+0f02dce6-dc28-4c6c-a703-ee46ad45bc19,2025-12-19,RS1,Paracetamol 500mg,General,203,0,6,197,5,Low
+e97c5487-2e85-40ef-a2ad-0078827732e3,2025-12-19,RS1,TB-Kit Adult,Infectious,295,5,13,287,5,High
+4c3354e2-db9a-479f-8c09-5f52f14d50d7,2025-12-19,RS1,Disposable Syringes 3ml,Consumable,319,11,12,318,4,Low
+32931156-9056-4855-97f5-8b91bbc06b99,2025-12-19,RS1,Sterile Gloves,Consumable,385,29,9,405,5,Low
+32eacc25-c2a3-48f4-9d41-545e5ca5c58e,2025-12-19,RS1,Ibuprofen 400mg,General,218,20,14,224,4,Low
+d12286c4-974f-477d-bb3e-b4b6da13cc4f,2025-12-19,RS1,BCG Vaccine,Vaccine,173,5,18,160,5,High
+63a0a150-da5f-4d71-be12-fe7ce8d24e64,2025-12-19,RS1,Amoxicillin 500mg,Antibiotic,158,25,16,167,4,Medium
+339a03ab-4e98-4869-b240-a4ee3be6094b,2025-12-19,RS1,Polio Vaccine,Vaccine,369,2,5,366,5,High
+5b66c2a1-247d-4dcc-899b-1cfd6713b310,2025-12-19,RS1,Blood Glucose Strips,Diagnostic,161,18,10,169,3,Medium
+0f195877-5758-4c1e-8aa0-2a0ec57f089b,2025-12-19,RS1,Insulin Glargine,Chronic,248,16,24,240,5,High
+80926c6f-7a67-411b-a5a1-a6c776a6d5d4,2025-12-19,RS1,Ringer Lactate,Fluids,150,19,15,154,3,High
+df8294e6-73b1-40de-b66e-bb2ffb693ebc,2025-12-19,RS1,Magnesium Sulfate,Maternal,135,2,19,118,2,High
+8124a36d-a2ad-4f7a-9fa9-24a0540ce4af,2025-12-19,RS1,Malaria RDT,Diagnostic,302,17,20,299,6,High
+51c1bd5f-38a8-49ff-8045-196e464fe259,2025-12-19,RS1,Azithromycin,Antibiotic,150,30,8,172,4,Medium
+d4961e6e-7693-41ff-a054-aa69224736ab,2025-12-19,RS1,IV Cannula,Consumable,116,24,22,118,2,Medium
+ba8dcc76-dcf5-4562-8fae-f205b9da1885,2025-12-19,RS1,Amlodipine 5mg,Chronic,221,19,23,217,3,Medium
+1b5307b6-a902-4c14-a807-e223c7ebfbf1,2025-12-19,RS1,Oxytocin Injection,Maternal,10,0,10,0,2,High
+6f068d1c-4b7b-4886-a42f-de45a6bc99b1,2025-12-19,RS2,Blood Glucose Strips,Diagnostic,224,29,14,239,4,Medium
+cc5d10cb-9267-47a4-9058-1923b27ecf54,2025-12-19,RS2,Ibuprofen 400mg,General,310,4,9,305,3,Low
+e5b10380-8d59-429f-9c87-a3594415a6c9,2025-12-19,RS2,Epinephrine,Emergency,207,8,23,192,2,High
+b79bf5e1-6695-4118-afa2-111823ce5c95,2025-12-19,RS2,Azithromycin,Antibiotic,112,22,13,121,4,Medium
+9f52d71c-970c-46e1-91a3-685bee2fe13e,2025-12-19,RS2,Sterile Gloves,Consumable,296,15,17,294,5,Low
+e684194d-f273-486d-a299-09240c3f72ec,2025-12-19,RS2,Surgical Masks,Consumable,318,6,9,315,3,Low
+b8fe5405-a9e9-4dc4-b1bd-9e53113e1741,2025-12-19,RS2,HIV Rapid Test Kit,Diagnostic,231,24,18,237,5,High
+2858b8ea-d1b2-4d15-b6b5-dd42f9e4258e,2025-12-19,RS2,Amlodipine 5mg,Chronic,341,16,18,339,3,Medium
+06cfb921-5429-4cd1-a725-dcace880fee6,2025-12-19,RS2,Magnesium Sulfate,Maternal,134,2,7,129,6,High
+91fbefce-890e-4e61-b3ef-a251bb276c0f,2025-12-19,RS2,Disposable Syringes 3ml,Consumable,139,27,17,149,6,Low
+75eda647-f86c-4839-ad46-218026a0db4a,2025-12-19,RS2,Ringer Lactate,Fluids,232,25,24,233,5,High
+7d133fd2-e12f-4dbd-8abf-1fa01c66a726,2025-12-19,RS2,IV Cannula,Consumable,344,28,18,354,3,Medium
+428b62e1-5d8b-45c4-b85d-7f93664b8a59,2025-12-19,RS2,Artemether (Malaria),Infectious,134,14,25,123,2,High
+3aec0a45-9edb-411f-a737-4bd687271235,2025-12-19,RS2,Folic Acid,Maternal,172,27,12,187,3,Low
+8c2f183b-3b5b-4990-9f15-fb7cc902e502,2025-12-19,RS2,Normal Saline 0.9%,Fluids,145,28,6,167,6,Medium
+e13f0458-239d-4663-a3d8-fb3125411bb6,2025-12-19,RS2,Oral Rehydration Salts,General,335,18,9,344,4,Medium
+90982c9e-068b-4121-8d3f-32a2208335b8,2025-12-19,RS2,Polio Vaccine,Vaccine,133,19,9,143,5,High
+2160e023-4390-4447-a626-6af61cbb6275,2025-12-19,RS2,BCG Vaccine,Vaccine,271,12,14,269,4,High
+5982296d-1637-4b07-b257-6844e4c99794,2025-12-19,RS2,Malaria RDT,Diagnostic,277,5,14,268,4,High
+cb03f2eb-a82a-410e-bcb6-38a86658bb77,2025-12-19,RS2,Paracetamol 500mg,General,158,23,15,166,6,Low
+bba6fabf-a2da-4bc9-97cf-5664c265f8f7,2025-12-19,RS2,Insulin Glargine,Chronic,236,17,23,230,4,High
+774ba02d-6ebc-40cd-8f36-3b122479f01f,2025-12-19,RS2,Metformin 500mg,Chronic,181,17,21,177,2,Medium
+6c226442-f84d-48e0-a2d6-de413816216e,2025-12-19,RS2,Amoxicillin 500mg,Antibiotic,225,19,11,233,5,Medium
+d4cd8151-1a51-4868-941a-35e9a0864cda,2025-12-19,RS2,TB-Kit Adult,Infectious,169,7,5,171,2,High
+bae014bd-aac6-4af8-a0e5-1694ec04dfc8,2025-12-19,RS2,Oxytocin Injection,Maternal,10,0,10,0,5,High
+6f0a7bb6-0202-419c-9fc6-30c4112bb628,2025-12-19,RS3,IV Cannula,Consumable,289,21,12,298,2,Medium
+0277fb12-0f51-4ab8-8fb0-feebff586527,2025-12-19,RS3,Folic Acid,Maternal,372,0,11,361,4,Low
+53c44ba7-3d51-4572-b09f-b1cdb862d77b,2025-12-19,RS3,Malaria RDT,Diagnostic,258,20,7,271,3,High
+338a408e-a57f-44a4-a998-62816dee2c2f,2025-12-19,RS3,Magnesium Sulfate,Maternal,165,24,17,172,6,High
+6fb5b314-c180-4c0a-b53f-fe0458dcd275,2025-12-19,RS3,Disposable Syringes 3ml,Consumable,171,10,8,173,4,Low
+466541ef-82f6-4a92-bf5a-0cdb5bf3b1c2,2025-12-19,RS3,Sterile Gloves,Consumable,185,8,17,176,6,Low
+32507d5e-c6e2-4190-915b-7df0fb106a75,2025-12-19,RS3,Paracetamol 500mg,General,208,6,5,209,2,Low
+7a9e0fd4-79ee-4681-90d4-0e99967eea36,2025-12-19,RS3,Polio Vaccine,Vaccine,397,24,15,406,2,High
+9b24c233-9b3d-45b8-9e75-90b615ccadd2,2025-12-19,RS3,Oxytocin Injection,Maternal,10,0,10,0,2,High
+854e491b-4900-46de-ba1d-e841ae23698a,2025-12-19,RS3,Insulin Glargine,Chronic,301,27,5,323,4,High
+a76cc4ae-56e3-4e13-8989-0e5ba3725bed,2025-12-19,RS3,Artemether (Malaria),Infectious,378,8,7,379,5,High
+df047564-e753-4ee3-85f5-cae85a8c2d4e,2025-12-19,RS3,Surgical Masks,Consumable,250,29,24,255,3,Low
+c68bc545-f4c3-4d60-9c75-c4220875d172,2025-12-19,RS3,TB-Kit Adult,Infectious,251,14,19,246,5,High
+4db8ba61-aa67-4a35-a97c-816d1abd34b6,2025-12-19,RS3,Blood Glucose Strips,Diagnostic,378,15,9,384,4,Medium
+462301b4-e0bd-44ee-96d1-a812beeacde6,2025-12-19,RS3,Azithromycin,Antibiotic,110,13,22,101,2,Medium
+8a5b59cb-f7b7-4bda-91e3-ef72d11c2d52,2025-12-19,RS3,Metformin 500mg,Chronic,324,6,15,315,4,Medium
+f298e90b-9f1b-4895-a037-4a877009bb63,2025-12-19,RS3,Normal Saline 0.9%,Fluids,271,8,12,267,6,Medium
+ef433e3d-949a-45fb-9373-9b245c5ed061,2025-12-19,RS3,Ibuprofen 400mg,General,357,2,25,334,5,Low
+33069d62-5a74-476d-b486-04c6a42e25cd,2025-12-19,RS3,BCG Vaccine,Vaccine,276,26,25,277,6,High
+3cd3e7c4-2225-466d-b4f1-ddfbec041aaf,2025-12-19,RS3,Oral Rehydration Salts,General,336,29,6,359,5,Medium
+9d32ca83-1142-4e51-99e4-88abb5dd9ea4,2025-12-19,RS3,HIV Rapid Test Kit,Diagnostic,359,11,8,362,3,High
+347f7f1a-f89c-45e6-b948-22e9c0faf393,2025-12-19,RS3,Amoxicillin 500mg,Antibiotic,143,10,9,144,5,Medium
+ba8fe609-4fbf-425b-b1b7-e2b6abd3c146,2025-12-19,RS4,Normal Saline 0.9%,Fluids,253,7,6,254,6,Medium
+f7d02308-569a-4dc5-80e2-def64e40379e,2025-12-19,RS4,Insulin Glargine,Chronic,210,17,13,214,3,High
+f6c26cfe-7f64-4ad5-8090-23d6ba348922,2025-12-19,RS4,Oxytocin Injection,Maternal,159,5,11,153,3,High
+dec3e684-9900-46d3-b62d-30b528d164c0,2025-12-19,RS4,Oral Rehydration Salts,General,319,16,25,310,6,Medium
+1edf3880-a0a3-46a9-bece-09de1a3088a3,2025-12-19,RS4,Azithromycin,Antibiotic,196,16,10,202,3,Medium
+736998a5-d2da-44b8-ba3c-4b3bfb238b37,2025-12-19,RS4,Malaria RDT,Diagnostic,101,8,12,97,4,High
+5dae4807-91c5-41a8-a9ae-9615165f4814,2025-12-19,RS4,Artemether (Malaria),Infectious,379,12,14,377,6,High
+672b2f81-7d6d-44dd-a753-d0dc8f14742d,2025-12-19,RS4,IV Cannula,Consumable,210,0,7,203,6,Medium
+1b447286-0f91-4f88-b6c2-b72d91e512e5,2025-12-19,RS4,Surgical Masks,Consumable,297,20,22,295,5,Low
+84263dc4-4a70-413d-b005-f7bba2e1fd03,2025-12-19,RS4,Ringer Lactate,Fluids,358,10,13,355,2,High
+f234244b-6554-4dc0-81e4-f0dc0f24c79b,2025-12-19,RS4,Amlodipine 5mg,Chronic,306,8,7,307,3,Medium
+9966954c-a21b-4f4e-9092-fe73b5fb0283,2025-12-19,RS4,Folic Acid,Maternal,333,24,21,336,5,Low
+d20ccdb3-f018-44ef-b4fe-816fcfb1d1d0,2025-12-19,RS4,Disposable Syringes 3ml,Consumable,258,14,6,266,3,Low
+cb8f8527-abd0-4da9-b430-4b55fd0b82db,2025-12-19,RS4,Blood Glucose Strips,Diagnostic,354,6,19,341,6,Medium
+6d161573-a351-46e6-b163-0b45f2388a57,2025-12-19,RS4,BCG Vaccine,Vaccine,124,2,13,113,5,High
+b7cad249-d532-44ff-9f3a-5b3d4db826f3,2025-12-19,RS4,Polio Vaccine,Vaccine,381,26,25,382,4,High
+fa519472-e937-41d8-b042-e5eebb20c22d,2025-12-19,RS4,Paracetamol 500mg,General,389,30,8,411,4,Low
+a2c0d620-9337-41eb-876c-06ea3ae1e1db,2025-12-19,RS4,TB-Kit Adult,Infectious,177,21,7,191,2,High
+1c66da9b-8e71-4195-85aa-8d7d058f3baa,2025-12-19,RS4,Epinephrine,Emergency,320,11,21,310,6,High
+3343310b-9e9d-46ea-820d-ff88f1a87d17,2025-12-19,RS4,Amoxicillin 500mg,Antibiotic,157,10,22,145,4,Medium
+767df30b-77c7-480b-a3f9-b684e90f9bdc,2025-12-19,RS4,Sterile Gloves,Consumable,218,4,14,208,2,Low
+32fffe67-da45-4c72-9dde-05b5d0c38ab5,2025-12-19,RS4,Ibuprofen 400mg,General,124,19,24,119,3,Low
+d7d3a731-df57-46d1-98c9-e354d7a94b6f,2025-12-19,RS4,HIV Rapid Test Kit,Diagnostic,143,15,19,139,6,High
+8a4088a7-2f42-43a9-99ba-abbcb8757927,2025-12-19,RS4,Magnesium Sulfate,Maternal,195,23,11,207,5,High
+b4e0002c-ca34-4994-9a86-8276b01d945c,2025-12-19,RS4,Metformin 500mg,Chronic,172,1,14,159,5,Medium
+8e3b0f07-144c-4804-9d24-116f3dbbfe7a,2025-12-19,RS5,Disposable Syringes 3ml,Consumable,106,25,19,112,5,Low
+c84ff132-01c2-4c1c-8c44-0bc068f736df,2025-12-19,RS5,Oxytocin Injection,Maternal,121,30,25,126,4,High
+635aa9a5-f612-416e-bef9-8d9a3c6cea63,2025-12-19,RS5,Ibuprofen 400mg,General,313,10,8,315,5,Low
+d966bbd1-72f9-472b-9d76-15340037ed6c,2025-12-19,RS5,Insulin Glargine,Chronic,272,26,19,279,2,High
+a3cb0e02-9c5e-4760-af0c-0d215d484c17,2025-12-19,RS5,BCG Vaccine,Vaccine,177,4,19,162,4,High
+5b1c70ac-d1b4-46c4-b93b-66167256640d,2025-12-19,RS5,Surgical Masks,Consumable,228,28,14,242,5,Low
+77549e9a-ef78-462a-8607-0d6b7d21b24d,2025-12-19,RS5,Polio Vaccine,Vaccine,313,13,20,306,6,High
+32944405-6044-4ad1-bf28-d6e13b4b9092,2025-12-19,RS5,Sterile Gloves,Consumable,204,7,19,192,2,Low
+25c0e426-84c4-4cdc-a5c2-72b8144e8ebc,2025-12-19,RS5,Folic Acid,Maternal,333,17,14,336,2,Low
+55c6ed42-7f00-42c6-bf62-fe74a96cc7f9,2025-12-19,RS5,Malaria RDT,Diagnostic,371,0,7,364,5,High
+f350954e-d569-48b6-b17e-0b5ea58ac02c,2025-12-19,RS5,Azithromycin,Antibiotic,272,21,7,286,4,Medium
+7ebb2eb1-7966-4590-a382-d9966f90bcf7,2025-12-19,RS5,Amoxicillin 500mg,Antibiotic,318,4,5,317,2,Medium
+9b8e23e1-c725-4bf0-8f36-2d1c88f4078e,2025-12-19,RS5,Epinephrine,Emergency,154,9,7,156,6,High
+0ff42d77-397b-4320-b0f2-70a949a1db81,2025-12-19,RS5,IV Cannula,Consumable,127,21,7,141,4,Medium
+8a181460-1fd1-4d4a-bc6a-ead7e464ca49,2025-12-19,RS5,Oral Rehydration Salts,General,215,10,16,209,5,Medium
+03beb43c-5c58-4c41-a61a-6ccc51922c3f,2025-12-19,RS5,Magnesium Sulfate,Maternal,341,24,18,347,4,High
+ee424512-4475-4216-8b37-708c0d2e98f5,2025-12-19,RS5,Blood Glucose Strips,Diagnostic,334,17,9,342,2,Medium
+3f2af3e2-9356-42e5-bedf-f1bb4726ec3d,2025-12-19,RS5,TB-Kit Adult,Infectious,307,15,25,297,3,High
+28c88310-967d-4b35-8d11-098464b3d744,2025-12-19,RS5,Ringer Lactate,Fluids,342,15,7,350,4,High
+b2e56351-45d4-4390-b3d8-1aaf848ff471,2025-12-19,RS5,Paracetamol 500mg,General,210,10,7,213,2,Low
+2e83e50a-2530-4da0-93d6-6403d953c218,2025-12-19,RS5,Metformin 500mg,Chronic,269,0,11,258,4,Medium
+a266e783-ddb9-47f5-96ad-324d2d1a0614,2025-12-19,RS5,Normal Saline 0.9%,Fluids,400,17,6,411,2,Medium
+6e9a0fdc-ef17-446d-ab90-ae65243baabb,2025-12-19,RS5,Amlodipine 5mg,Chronic,294,2,20,276,5,Medium
+7420f7f4-a883-40da-9e37-40ce0dd673fd,2025-12-19,RS5,HIV Rapid Test Kit,Diagnostic,347,30,12,365,6,High
+f3849706-ef29-4820-9b98-18a204c53aa0,2025-12-19,RS5,Artemether (Malaria),Infectious,114,18,20,112,6,High
+2cea53e9-d5d2-4872-bdc0-a278905faba1,2025-12-19,RS6,Magnesium Sulfate,Maternal,233,6,8,231,5,High
+fd7bf08a-2fa6-42f6-9b13-ff91feb04688,2025-12-19,RS6,Folic Acid,Maternal,122,4,17,109,3,Low
+6712b59b-8bae-4a41-9ea4-7a308a3d905e,2025-12-19,RS6,Disposable Syringes 3ml,Consumable,126,11,7,130,6,Low
+24201305-0e27-421e-9543-a958ab979bd3,2025-12-19,RS6,Oxytocin Injection,Maternal,121,20,24,117,5,High
+3677b54f-5ac2-40b4-8306-610dd732dec5,2025-12-19,RS6,Normal Saline 0.9%,Fluids,289,17,15,291,4,Medium
+f22f9ec4-2790-4e09-b9dc-dc49320c3dc4,2025-12-19,RS6,Surgical Masks,Consumable,396,13,18,391,4,Low
+e36dd572-896f-4cc3-8fbb-7d06c61eaf2d,2025-12-19,RS6,TB-Kit Adult,Infectious,357,7,11,353,6,High
+760bb088-0a75-4ace-9b27-b07f771f5ccd,2025-12-19,RS6,Amoxicillin 500mg,Antibiotic,181,30,5,206,5,Medium
+b19fcd85-e4e9-4a20-9f84-da0a01aad4e5,2025-12-19,RS6,Insulin Glargine,Chronic,138,6,16,128,3,High
+b026f1b3-ff7c-48b0-92b7-fedc0c6a0ed6,2025-12-19,RS6,Malaria RDT,Diagnostic,352,0,22,330,3,High
+e1e7fdf8-5359-463a-b514-84a5b706e4fc,2025-12-19,RS6,Metformin 500mg,Chronic,232,19,12,239,4,Medium
+04f126cd-7cf2-452b-ae19-02b199822a0c,2025-12-19,RS6,Ibuprofen 400mg,General,193,5,19,179,5,Low
+c4050c0b-d19f-41e5-8329-a6b1254f6188,2025-12-19,RS6,Artemether (Malaria),Infectious,271,25,22,274,4,High
+7334dac0-63ac-4bc5-9f18-89a1c2f34fb6,2025-12-19,RS6,Paracetamol 500mg,General,170,1,11,160,6,Low
+0f38add3-2d0d-4e8f-9f22-54d80c67168f,2025-12-19,RS6,Polio Vaccine,Vaccine,350,6,13,343,2,High
+54518c18-1333-470f-be08-1df5f284b74f,2025-12-19,RS6,Oral Rehydration Salts,General,249,22,7,264,2,Medium
+25acea88-8852-40be-a6ff-65c7d40aa105,2025-12-19,RS6,IV Cannula,Consumable,201,22,23,200,2,Medium
+ade7d649-45ab-42ba-8055-3428e6357ea6,2025-12-19,RS6,Ringer Lactate,Fluids,301,20,9,312,6,High
+b54a9a6e-3464-4c30-b9b1-0a945812f59f,2025-12-19,RS6,Sterile Gloves,Consumable,326,22,6,342,2,Low
+b9a44942-ef39-41c8-aebc-ac9395873b61,2025-12-19,RS6,Epinephrine,Emergency,195,16,14,197,3,High
+ce76574c-a8e0-4982-b46f-17661ff715c4,2025-12-19,RS7,TB-Kit Adult,Infectious,205,26,15,216,4,High
+01b134cf-c8b9-4f16-80c7-8931bcb44783,2025-12-19,RS7,IV Cannula,Consumable,332,12,17,327,3,Medium
+4712a3b4-0bec-462a-a4f7-d9044067a572,2025-12-19,RS7,Ibuprofen 400mg,General,234,19,8,245,4,Low
+baeea31c-a106-40ff-8873-1c142830ea06,2025-12-19,RS7,HIV Rapid Test Kit,Diagnostic,342,23,14,351,3,High
+6bf1f658-b05f-4016-93ef-863728a199dd,2025-12-19,RS7,Disposable Syringes 3ml,Consumable,320,26,9,337,2,Low
+0c28cea0-aaf7-4586-8603-3ef48961dd9d,2025-12-19,RS7,Amlodipine 5mg,Chronic,129,9,25,113,4,Medium
+5bee5300-00f7-4ac0-a73c-b8cc1e0d976f,2025-12-19,RS7,Sterile Gloves,Consumable,179,2,15,166,4,Low
+38b21b18-55d7-4b5e-8351-333929c783f1,2025-12-19,RS7,Epinephrine,Emergency,329,7,20,316,4,High
+a8050be4-cb95-473a-8653-d3392d637e47,2025-12-19,RS7,Normal Saline 0.9%,Fluids,339,29,12,356,5,Medium
+e4b2f4d0-ac90-4473-b780-857cfd10cc8f,2025-12-19,RS7,Amoxicillin 500mg,Antibiotic,274,18,10,282,3,Medium
+f81473e3-38dd-4df0-bc24-5798bc8121c2,2025-12-19,RS7,BCG Vaccine,Vaccine,263,17,8,272,6,High
+797231aa-4118-4594-9c41-de1a4d7aa0bc,2025-12-19,RS7,Blood Glucose Strips,Diagnostic,331,30,15,346,6,Medium
+32d963b5-6384-4767-8832-5afa24bfe01f,2025-12-19,RS7,Folic Acid,Maternal,108,20,11,117,6,Low
+5ab59792-0b00-4101-903c-ca5c989dfe28,2025-12-19,RS7,Insulin Glargine,Chronic,275,8,9,274,2,High
+ed285894-b059-4b71-ad03-dca793aee363,2025-12-19,RS7,Metformin 500mg,Chronic,169,16,5,180,6,Medium
+448ba9a4-e315-4bbc-8d49-09aa4d3ea4c9,2025-12-19,RS7,Oral Rehydration Salts,General,339,21,13,347,5,Medium
+00a9c219-7aa7-422b-bbae-cc7f16436860,2025-12-19,RS7,Magnesium Sulfate,Maternal,349,5,17,337,5,High
+6fd324c3-fa11-4dc2-a012-191113ddeb8d,2025-12-19,RS7,Polio Vaccine,Vaccine,142,2,6,138,3,High
+699bbc7d-e555-4fc3-bb4f-1509c297f8be,2025-12-19,RS7,Azithromycin,Antibiotic,113,26,23,116,3,Medium
+87c6ab28-4288-4399-ab6d-35ced67d1627,2025-12-19,RS7,Paracetamol 500mg,General,189,5,19,175,4,Low
+5ec5063e-7176-4e18-ba7e-99757838c578,2025-12-19,RS7,Ringer Lactate,Fluids,223,14,20,217,5,High
+73a15fa0-56bf-41e9-9c2a-bc7a8bcd9a12,2025-12-19,RS7,Malaria RDT,Diagnostic,247,7,18,236,5,High
+6e751541-1989-4bc0-a075-f27d9f76cd59,2025-12-19,RS7,Oxytocin Injection,Maternal,387,14,25,376,2,High
+53e3802d-fb64-4f53-aa5d-0c80216e8803,2025-12-19,RS8,Surgical Masks,Consumable,253,9,16,246,3,Low
+f6dcb555-be6b-4b00-899a-4f7dae7932bc,2025-12-19,RS8,Azithromycin,Antibiotic,128,22,7,143,3,Medium
+4af57908-5892-4fb2-ae99-208bfbf39c45,2025-12-19,RS8,Ringer Lactate,Fluids,358,30,21,367,2,High
+08ae2b9e-117d-49df-abd2-a1cef14ceba3,2025-12-19,RS8,Disposable Syringes 3ml,Consumable,266,14,19,261,2,Low
+5fa3372b-d8d0-4bb0-966a-ef170b7bfc4a,2025-12-19,RS8,Metformin 500mg,Chronic,239,29,9,259,3,Medium
+0ebd8c63-1234-4209-8e7a-685c73ffeed1,2025-12-19,RS8,Malaria RDT,Diagnostic,345,5,22,328,6,High
+99a9c747-999f-4979-ac3e-f6364ab81299,2025-12-19,RS8,Epinephrine,Emergency,162,5,20,147,6,High
+3bf90519-93a7-47d8-9df3-1b4347630b09,2025-12-19,RS8,Artemether (Malaria),Infectious,100,29,22,107,3,High
+4622b52f-57c5-4f44-9a70-189881943de5,2025-12-19,RS8,Amoxicillin 500mg,Antibiotic,396,8,17,387,4,Medium
+8cd573e4-4035-42dd-8f0e-d859176da75f,2025-12-19,RS8,Paracetamol 500mg,General,177,25,21,181,2,Low
+34606b64-19b5-4782-8803-ed80a5dad864,2025-12-19,RS8,Amlodipine 5mg,Chronic,171,6,8,169,6,Medium
+3df0c732-68ba-4990-b849-0455d784b81e,2025-12-19,RS8,Insulin Glargine,Chronic,290,1,10,281,2,High
+ffad3c7f-1b68-4369-883d-3da2a55bfb64,2025-12-19,RS8,Folic Acid,Maternal,298,0,16,282,3,Low
+cf3a941a-c866-4666-ae34-b7f62576532f,2025-12-19,RS8,Ibuprofen 400mg,General,183,3,9,177,5,Low
+b609145c-6ce3-4874-9874-9512e5981ee5,2025-12-19,RS8,IV Cannula,Consumable,174,25,20,179,3,Medium
+d723c05d-e93c-4ad2-8caa-83ee3cfe7e9d,2025-12-19,RS8,Polio Vaccine,Vaccine,288,14,25,277,6,High
+16e20333-13c6-4d1a-9914-c9f8ec76c15d,2025-12-19,RS8,Sterile Gloves,Consumable,327,1,12,316,4,Low
+00cccf83-88bf-44c3-a7d3-96351c966c8b,2025-12-19,RS8,Oxytocin Injection,Maternal,369,26,21,374,6,High
+d1d23641-0bab-43b9-b4cf-ed95f54d5b68,2025-12-19,RS8,HIV Rapid Test Kit,Diagnostic,174,14,20,168,2,High
+108ea216-c1d7-4258-af8b-49634f60f8c3,2025-12-19,RS8,Oral Rehydration Salts,General,399,17,17,399,4,Medium
+71003c86-03b8-4dfa-931e-08e0d7185e42,2025-12-19,RS8,Blood Glucose Strips,Diagnostic,368,12,21,359,4,Medium
+6814b045-2fae-4ce6-b1d2-8bb8edb6ec2b,2025-12-19,RS8,Normal Saline 0.9%,Fluids,339,18,24,333,3,Medium
+1803dba8-5b6a-48b3-9971-cee38b229f93,2025-12-19,RS8,Magnesium Sulfate,Maternal,351,18,19,350,3,High
+705823dd-e281-4765-81d9-8ef4acd5450d,2025-12-19,RS8,TB-Kit Adult,Infectious,209,16,6,219,3,High
+1678588a-c43f-4e15-b008-ce1bcb2799b7,2025-12-19,RS8,BCG Vaccine,Vaccine,224,12,16,220,3,High
+2c5c3bb5-5bf7-42f0-b0ed-0016ace00b56,2025-12-19,RS9,Surgical Masks,Consumable,321,26,24,323,6,Low
+b444b49c-9c54-4d30-afe5-d14301a7695f,2025-12-19,RS9,BCG Vaccine,Vaccine,137,16,25,128,4,High
+bd5bc022-ec1d-454d-bfbc-0840c6dfbfdd,2025-12-19,RS9,Normal Saline 0.9%,Fluids,107,24,10,121,5,Medium
+695f9635-2f28-483c-a596-9290395d94a0,2025-12-19,RS9,Malaria RDT,Diagnostic,279,15,22,272,4,High
+ef983ea8-382a-45a1-b6ba-a227f2bf37e7,2025-12-19,RS9,Ringer Lactate,Fluids,102,13,5,110,5,High
+425b4154-a1e3-4c15-a9f2-1478d6bca60b,2025-12-19,RS9,Insulin Glargine,Chronic,336,26,22,340,4,High
+5664063c-135d-46df-a079-eddbbab50a48,2025-12-19,RS9,Ibuprofen 400mg,General,115,8,12,111,2,Low
+bfa9b6a3-dea1-4117-906d-ca2649f30eed,2025-12-19,RS9,Folic Acid,Maternal,196,2,23,175,5,Low
+43f12f7b-c67d-474e-abcf-fc5b542a0957,2025-12-19,RS9,Oral Rehydration Salts,General,351,8,25,334,5,Medium
+36a6d7b0-a85d-45e9-b55a-d6a7859462a0,2025-12-19,RS9,IV Cannula,Consumable,147,22,18,151,2,Medium
+4d71f49b-1f74-4d8d-b92f-3ab50bf5838e,2025-12-19,RS9,Azithromycin,Antibiotic,117,25,9,133,4,Medium
+82ed83c2-754b-4e81-a0ab-9fbb38cf7c9e,2025-12-19,RS9,Magnesium Sulfate,Maternal,229,1,16,214,3,High
+6b332db0-2e55-4d27-ac62-4cb52da58ad3,2025-12-19,RS9,HIV Rapid Test Kit,Diagnostic,315,18,9,324,3,High
+6db1d249-37f5-4d6c-b78e-26d493f99e72,2025-12-19,RS9,TB-Kit Adult,Infectious,385,1,14,372,4,High
+05bfaefc-8fca-45e8-8377-0196faf6d144,2025-12-19,RS9,Epinephrine,Emergency,126,24,14,136,6,High
+79649ff1-fb32-412a-896b-938245aef211,2025-12-19,RS9,Amlodipine 5mg,Chronic,397,2,11,388,6,Medium
+79070626-98e2-4321-a350-238ddd8a5905,2025-12-19,RS9,Metformin 500mg,Chronic,382,18,17,383,6,Medium
+1ef22633-e3ed-45a3-b89f-055476c30496,2025-12-19,RS9,Polio Vaccine,Vaccine,323,25,7,341,6,High
+560c27fe-156c-4d59-8f55-4fccac213018,2025-12-19,RS9,Oxytocin Injection,Maternal,346,22,9,359,2,High
+b9a8d13e-60d9-440a-8a09-d6a06d2324ec,2025-12-19,RS9,Sterile Gloves,Consumable,305,20,19,306,5,Low
+ccc000d9-242d-47ef-bb5e-a2b7d57a8aef,2025-12-19,RS9,Artemether (Malaria),Infectious,279,26,15,290,2,High
+00bcc0fa-2673-4ded-a9a5-d65447d959a9,2025-12-19,RS9,Amoxicillin 500mg,Antibiotic,145,7,24,128,2,Medium
+5ec1c17c-c9d2-4364-9eb6-d010cd94b06f,2025-12-19,RS9,Blood Glucose Strips,Diagnostic,147,6,21,132,5,Medium
+dcebc899-8624-4b27-8082-59f1daf1a192,2025-12-19,RS10,Amoxicillin 500mg,Antibiotic,204,14,19,199,6,Medium
+2affb882-1e05-41c0-8b9c-e29b89f0ac78,2025-12-19,RS10,Epinephrine,Emergency,200,20,13,207,5,High
+8174dc5e-79bc-4bb1-bfb3-edad23c7ea45,2025-12-19,RS10,Polio Vaccine,Vaccine,120,20,21,119,3,High
+52b025f8-b4e7-42b6-8d7d-c438a95ee0bb,2025-12-19,RS10,Insulin Glargine,Chronic,253,8,12,249,4,High
+e8a094b6-d63e-4c65-8519-84039fb8f34e,2025-12-19,RS10,HIV Rapid Test Kit,Diagnostic,191,3,5,189,5,High
+7a0f3022-fb75-47a8-9715-d84e678ff775,2025-12-19,RS10,Amlodipine 5mg,Chronic,307,13,11,309,6,Medium
+77119386-1de8-4fee-a26d-ff358ed42278,2025-12-19,RS10,Oxytocin Injection,Maternal,370,15,16,369,4,High
+c7e2e476-da57-40d8-9f87-c00d60a1a5ac,2025-12-19,RS10,Artemether (Malaria),Infectious,230,9,24,215,4,High
+d62734f8-aaf0-43b2-b31e-90d00a29df38,2025-12-19,RS10,Blood Glucose Strips,Diagnostic,285,23,13,295,6,Medium
+bcbfb6e7-4b9f-4268-81e2-0b889669c9c7,2025-12-19,RS10,Oral Rehydration Salts,General,317,4,25,296,3,Medium
+c384adad-9b57-47f8-beea-d54ef536c4c4,2025-12-19,RS10,TB-Kit Adult,Infectious,228,1,17,212,2,High
+4fb67b8b-f47c-414c-8bf8-52da98fe8108,2025-12-19,RS10,BCG Vaccine,Vaccine,362,23,20,365,3,High
+3744ca38-18ad-4a88-9e8b-35fa411260b8,2025-12-19,RS10,Magnesium Sulfate,Maternal,326,15,6,335,3,High
+32808282-2faa-47c3-8904-ab3ecf181f59,2025-12-19,RS10,Surgical Masks,Consumable,209,13,22,200,3,Low
+c162f910-f9ae-4752-8ba7-4ad9b4c74b57,2025-12-19,RS10,Ibuprofen 400mg,General,311,28,11,328,2,Low
+8ee8594a-390e-4c11-8480-a9ed3cf1e5c7,2025-12-19,RS10,IV Cannula,Consumable,251,17,16,252,4,Medium
+ac309b95-098a-4559-9b11-4efdeb0c9fd6,2025-12-19,RS10,Normal Saline 0.9%,Fluids,180,0,6,174,3,Medium
+1ba9e4f9-18d9-4072-809e-1d9e573dc5d4,2025-12-19,RS10,Sterile Gloves,Consumable,369,21,6,384,2,Low
+6f09c204-6973-45d2-bcc9-7d2d5c9cf4c2,2025-12-19,RS10,Malaria RDT,Diagnostic,286,20,9,297,3,High
+98d556ee-8a4e-4602-aab6-292af4ce32ea,2025-12-19,RS10,Paracetamol 500mg,General,286,2,8,280,3,Low
+b0bb3456-46cd-4ba5-9125-7bbf12f51a94,2025-12-19,RS10,Azithromycin,Antibiotic,338,30,8,360,5,Medium
+e46f4c0f-d5d8-439f-9aa0-6e6f18c2ad0e,2025-12-19,RS10,Disposable Syringes 3ml,Consumable,214,13,8,219,2,Low
+9711cb39-3d99-44db-b5cf-1ca08dd5e9c2,2025-12-19,RS10,Folic Acid,Maternal,158,22,7,173,5,Low
+d9e8aece-6bc1-44ca-b1c0-1ec74bc1813a,2025-12-19,RS10,Ringer Lactate,Fluids,268,10,7,271,5,High
+06166410-4ff0-453e-9e47-61ed2485b562,2025-12-19,RS11,TB-Kit Adult,Infectious,105,1,13,93,6,High
+e822a328-d306-4b1d-b56b-3e79ce7873d4,2025-12-19,RS11,Folic Acid,Maternal,196,16,6,206,6,Low
+37fbe96c-c021-4a8e-9e15-fb077debdbc3,2025-12-19,RS11,Ibuprofen 400mg,General,279,18,13,284,2,Low
+88660d8d-2af7-44bc-8071-455a301c39d0,2025-12-19,RS11,Paracetamol 500mg,General,270,17,12,275,3,Low
+28243188-9ba5-40ca-a98f-f285e718348f,2025-12-19,RS11,Insulin Glargine,Chronic,392,19,24,387,4,High
+3563d676-88ce-4dc3-97ae-31cb70b97547,2025-12-19,RS11,Epinephrine,Emergency,208,17,19,206,3,High
+d3fd4654-f380-4ffb-a67b-1880a84d2e47,2025-12-19,RS11,Azithromycin,Antibiotic,321,16,19,318,6,Medium
+5f2b7fc4-5e09-4388-ac0e-a1e409321243,2025-12-19,RS11,Oxytocin Injection,Maternal,139,22,14,147,6,High
+0d824bd0-e4d1-4dbf-ac05-b784a6f26910,2025-12-19,RS11,Polio Vaccine,Vaccine,100,16,21,95,2,High
+1932f853-eede-4a9a-a5a7-94d8ec10f1ed,2025-12-19,RS11,Magnesium Sulfate,Maternal,352,17,24,345,3,High
+3056a792-ce90-4ed3-a649-313a28ae0ac1,2025-12-19,RS11,Sterile Gloves,Consumable,387,5,21,371,3,Low
+e09d718c-8daf-4503-904f-5bf4f269a108,2025-12-19,RS11,Surgical Masks,Consumable,124,7,14,117,5,Low
+f9436462-e6e8-4a4b-87c0-2a4480e870b6,2025-12-19,RS11,Blood Glucose Strips,Diagnostic,168,10,9,169,4,Medium
+c4969cff-d9ed-471a-a9bd-b72f84a8a870,2025-12-19,RS11,Amlodipine 5mg,Chronic,164,21,5,180,6,Medium
+39c75653-1fae-494f-b00c-00f6a40da550,2025-12-19,RS11,BCG Vaccine,Vaccine,376,10,8,378,3,High
+03850255-7746-4c7d-8e67-e3694bf97f8e,2025-12-19,RS11,Disposable Syringes 3ml,Consumable,151,1,10,142,6,Low
+0dcfdba2-aa2a-42d9-a797-a8733f76eee0,2025-12-19,RS11,IV Cannula,Consumable,332,30,23,339,2,Medium
+83eed4b0-12bd-48ef-86c0-434731128bbd,2025-12-19,RS11,Normal Saline 0.9%,Fluids,245,6,15,236,6,Medium
+756a5650-4edd-4543-82fb-3d11536411c2,2025-12-19,RS11,HIV Rapid Test Kit,Diagnostic,236,12,18,230,6,High
+fc147b75-73bb-4279-aa28-baf61ea926cf,2025-12-19,RS11,Malaria RDT,Diagnostic,165,27,16,176,4,High
+a2e21f31-1769-4da9-80cc-ba70e80d6d59,2025-12-19,RS11,Oral Rehydration Salts,General,356,18,23,351,3,Medium
+ecf0880d-3941-4367-8ec9-e10ad00d34ba,2025-12-19,RS11,Amoxicillin 500mg,Antibiotic,214,20,16,218,3,Medium
+2ed8423a-6dfd-4f5e-a65c-449e6c65a11f,2025-12-19,RS11,Ringer Lactate,Fluids,167,4,15,156,5,High
+35bf28d8-93fb-47ba-95f9-07d4150d4a90,2025-12-19,RS11,Metformin 500mg,Chronic,343,23,20,346,2,Medium
+92159e4a-34c0-4ffd-98a5-b63abc2ddb3e,2025-12-19,RS12,Malaria RDT,Diagnostic,127,20,6,141,3,High
+6b82b60a-ecfd-4375-aaa2-a51833ab631f,2025-12-19,RS12,Amoxicillin 500mg,Antibiotic,336,10,14,332,6,Medium
+9b70487e-d6a3-4eda-9580-4a95dfde94ca,2025-12-19,RS12,Polio Vaccine,Vaccine,271,15,18,268,6,High
+09c0c3f3-81d2-4145-957d-edcee02e07a2,2025-12-19,RS12,Amlodipine 5mg,Chronic,369,20,9,380,5,Medium
+e7815336-597f-4f05-924a-ba6de610383e,2025-12-19,RS12,Epinephrine,Emergency,302,15,18,299,2,High
+9c13cf25-36c9-49f5-ac21-653c56f524e2,2025-12-19,RS12,TB-Kit Adult,Infectious,228,3,22,209,6,High
+7f2b0f7f-7af0-40ef-b37d-b0db55d2ae4f,2025-12-19,RS12,Blood Glucose Strips,Diagnostic,274,3,7,270,6,Medium
+b96bfbda-0488-4da7-b193-18374f26d0cb,2025-12-19,RS12,Disposable Syringes 3ml,Consumable,302,6,18,290,4,Low
+d534cde0-b58a-4207-ad06-d87634ea81c1,2025-12-19,RS12,Surgical Masks,Consumable,165,15,23,157,6,Low
+2976fbdd-b775-4862-a858-792223511df3,2025-12-19,RS12,BCG Vaccine,Vaccine,313,2,25,290,3,High
+a93ce9c9-f5ac-4e75-b1b2-67c28f958e52,2025-12-19,RS12,Ringer Lactate,Fluids,345,16,16,345,4,High
+661c2330-0f44-4eee-86c6-437f47da04ce,2025-12-19,RS12,Magnesium Sulfate,Maternal,167,26,11,182,4,High
+8c0ad4b6-2211-4d14-8514-46c2918c9ef2,2025-12-19,RS12,Metformin 500mg,Chronic,204,28,14,218,5,Medium
+d2994313-18ef-46e8-87a7-4e0fb11ec8ee,2025-12-19,RS12,HIV Rapid Test Kit,Diagnostic,346,8,21,333,6,High
+503100f9-784e-4536-9362-c9a6d6125b6d,2025-12-19,RS12,Azithromycin,Antibiotic,115,6,19,102,5,Medium
+583ab87e-7f3d-405c-9701-7aafe7798c68,2025-12-19,RS12,Oxytocin Injection,Maternal,299,23,22,300,6,High
+4c1261d7-1f7a-44c1-b37e-147220221aa9,2025-12-19,RS12,Insulin Glargine,Chronic,282,11,10,283,4,High
+6c73b213-aa29-4a5a-9089-05818aa649b2,2025-12-19,RS12,IV Cannula,Consumable,250,9,15,244,2,Medium
+42ac9eb3-0888-4d58-807c-4b42e6162e25,2025-12-19,RS12,Oral Rehydration Salts,General,378,15,22,371,3,Medium
+df9a9262-b68e-4baa-ab85-605d4f385a91,2025-12-19,RS12,Paracetamol 500mg,General,245,5,23,227,5,Low
+105ff911-5cf8-48d5-a49b-ed1ea2cce533,2025-12-19,RS12,Folic Acid,Maternal,393,5,24,374,3,Low
+d4999f8b-7f55-4f99-aa8c-c695e221e507,2025-12-19,RS13,Ringer Lactate,Fluids,100,21,9,112,4,High
+8b01f095-cd93-4393-8fbf-4b57d5627327,2025-12-19,RS13,Insulin Glargine,Chronic,269,19,22,266,3,High
+85adea93-7aa9-42f0-9175-4a7191339a65,2025-12-19,RS13,Magnesium Sulfate,Maternal,314,19,19,314,2,High
+850b573d-9c3c-42a3-8ce5-d53df7005a60,2025-12-19,RS13,HIV Rapid Test Kit,Diagnostic,284,15,13,286,2,High
+ad0b300c-db12-44ff-8325-dd047d21a615,2025-12-19,RS13,Oxytocin Injection,Maternal,133,28,24,137,3,High
+6d121302-e0cf-4df6-9ef4-21067ddeadfa,2025-12-19,RS13,Ibuprofen 400mg,General,267,12,17,262,5,Low
+f573c439-36c6-4811-9972-1d52b71fd23c,2025-12-19,RS13,TB-Kit Adult,Infectious,254,20,15,259,3,High
+9bb991d9-76bb-47dc-8a9a-c7b170b86a82,2025-12-19,RS13,Epinephrine,Emergency,131,28,25,134,4,High
+b69cf7ab-ae5e-4dc2-81af-826b35f04177,2025-12-19,RS13,Oral Rehydration Salts,General,135,9,11,133,4,Medium
+2b6b6b61-bf86-4024-ae4d-929ed3f4a869,2025-12-19,RS13,Sterile Gloves,Consumable,348,19,21,346,3,Low
+2fd69ebb-6344-469d-a7f3-0ef1ceb42455,2025-12-19,RS13,Folic Acid,Maternal,330,9,8,331,5,Low
+da1c9792-fa4a-48c0-94bd-55c172c962f1,2025-12-19,RS13,Metformin 500mg,Chronic,276,22,6,292,6,Medium
+bb438596-9599-4cef-a0e0-7378309681b8,2025-12-19,RS13,Blood Glucose Strips,Diagnostic,300,14,8,306,5,Medium
+7c3c2385-6665-404e-b723-a4e16d6f74d2,2025-12-19,RS13,Paracetamol 500mg,General,130,22,12,140,3,Low
+d9e568c9-160a-49b7-8464-e607a6ffeaa2,2025-12-19,RS13,IV Cannula,Consumable,218,30,12,236,5,Medium
+96f90f36-0860-47c3-b71f-3ccdaaf89469,2025-12-19,RS13,Malaria RDT,Diagnostic,250,11,25,236,2,High
+1e5374a1-ea43-4f86-a22b-e302f8277269,2025-12-19,RS13,Normal Saline 0.9%,Fluids,341,1,25,317,3,Medium
+7c3f7a63-f62d-478f-be91-0cd1ef2a63fb,2025-12-19,RS13,Disposable Syringes 3ml,Consumable,342,4,19,327,6,Low
+4e5b15e0-8050-4516-a950-b98fdfcb43a6,2025-12-19,RS13,Amoxicillin 500mg,Antibiotic,229,0,23,206,2,Medium
+837b84c4-7c8f-4a43-9b01-fb0df983ce1c,2025-12-19,RS13,Artemether (Malaria),Infectious,134,28,19,143,3,High
+ec245b57-25e0-460e-a62a-205c229731e2,2025-12-19,RS14,Magnesium Sulfate,Maternal,238,12,17,233,2,High
+10714e45-dfe8-4fe6-884f-82cfa41a26a9,2025-12-19,RS14,HIV Rapid Test Kit,Diagnostic,284,25,23,286,5,High
+fedfbb2a-2f0d-4286-9027-c78271c7d9fa,2025-12-19,RS14,TB-Kit Adult,Infectious,377,28,21,384,3,High
+af2d21c6-fe9d-4b23-a135-812f3711bd61,2025-12-19,RS14,Artemether (Malaria),Infectious,218,12,7,223,5,High
+e69f0c16-10d2-4094-b2d5-ba20a8ffa4f3,2025-12-19,RS14,Polio Vaccine,Vaccine,115,20,25,110,2,High
+cfd1c1a3-f9bf-422c-b4d2-1f3e81bee62c,2025-12-19,RS14,Ringer Lactate,Fluids,265,25,22,268,2,High
+e1dbd8cc-a0b8-4d6a-af2c-6d0dec26d2cb,2025-12-19,RS14,Disposable Syringes 3ml,Consumable,330,12,20,322,5,Low
+17e455d1-0cc6-4dad-8a13-178d4d1c89d5,2025-12-19,RS14,Normal Saline 0.9%,Fluids,118,24,7,135,5,Medium
+72539ae8-11d5-41e1-860b-c440a7462ecb,2025-12-19,RS14,Metformin 500mg,Chronic,335,23,12,346,3,Medium
+27d7a2dd-8146-40cf-bb56-a3b56e83b158,2025-12-19,RS14,IV Cannula,Consumable,391,19,18,392,2,Medium
+29503223-4300-4ec7-8c10-582cebb75871,2025-12-19,RS14,Sterile Gloves,Consumable,242,28,9,261,5,Low
+4b107996-c814-4fc8-8be2-a029e7ab3fa6,2025-12-19,RS14,Amoxicillin 500mg,Antibiotic,261,23,9,275,5,Medium
+f858354d-c4e8-407a-9a8b-ed684d60af83,2025-12-19,RS14,Paracetamol 500mg,General,219,11,17,213,2,Low
+3d948161-b9ac-4dfb-b95e-07a2cc3f04a5,2025-12-19,RS14,Epinephrine,Emergency,244,23,5,262,5,High
+2daa3a6a-f4e6-431d-bcc3-bc7df9759311,2025-12-19,RS14,Amlodipine 5mg,Chronic,226,18,10,234,3,Medium
+c4ac9434-0ddf-4fde-b392-46915c697f95,2025-12-19,RS14,Malaria RDT,Diagnostic,228,27,19,236,2,High
+05e917b7-8657-4c29-8d47-a9806f785977,2025-12-19,RS14,Blood Glucose Strips,Diagnostic,324,24,11,337,4,Medium
+a8c8de43-5d6c-4081-906d-84c6ea909acb,2025-12-19,RS14,Ibuprofen 400mg,General,396,10,13,393,3,Low
+def19ae5-52b7-4dfc-9bed-72e08c3e725e,2025-12-19,RS14,Surgical Masks,Consumable,241,3,11,233,6,Low
+2a33468f-8734-4b8d-b901-d72518bb1223,2025-12-19,RS14,Folic Acid,Maternal,367,17,9,375,3,Low
+da18caf5-fcb6-434c-8713-0d8315fbc93a,2025-12-19,RS14,BCG Vaccine,Vaccine,318,15,14,319,5,High
+9ab657f4-420c-4eb5-a212-064a37d19e24,2025-12-19,RS14,Insulin Glargine,Chronic,198,23,20,201,6,High
+849820b7-fd29-4dd0-ac4f-3695da564280,2025-12-19,RS15,Azithromycin,Antibiotic,396,29,18,407,2,Medium
+936d50ea-54ad-44b4-bc57-ecd7732bcfe0,2025-12-19,RS15,Oral Rehydration Salts,General,230,7,13,224,3,Medium
+12ac7571-2626-4ca9-bd79-7213f2ffbedc,2025-12-19,RS15,Polio Vaccine,Vaccine,179,21,22,178,6,High
+1f98f712-4346-4869-a91a-d7ba5ea3334e,2025-12-19,RS15,Ibuprofen 400mg,General,131,29,25,135,5,Low
+efe95894-b101-41e3-b8bd-fc605a54f45b,2025-12-19,RS15,Normal Saline 0.9%,Fluids,163,13,9,167,4,Medium
+d9d67642-33fc-45f9-9f1d-95f416367f9f,2025-12-19,RS15,TB-Kit Adult,Infectious,316,19,13,322,3,High
+cbae86eb-27a7-4251-a925-aeef95c4a4a0,2025-12-19,RS15,Insulin Glargine,Chronic,168,10,5,173,2,High
+61aefc4b-9ee8-41a5-acd6-7a1d0d47f447,2025-12-19,RS15,Amlodipine 5mg,Chronic,239,15,13,241,6,Medium
+b0fc1e55-ef55-452c-81dd-422cae6e89f8,2025-12-19,RS15,Sterile Gloves,Consumable,172,5,17,160,4,Low
+88accacc-e512-42ab-bac2-fbbb0d1eb95c,2025-12-19,RS15,Epinephrine,Emergency,276,4,14,266,3,High
+6d4ce57f-bb5d-48fb-a563-8a9c5968a51d,2025-12-19,RS15,HIV Rapid Test Kit,Diagnostic,379,25,12,392,3,High
+81818d4c-59d0-457b-af07-de41fb20e85b,2025-12-19,RS15,Magnesium Sulfate,Maternal,360,17,22,355,6,High
+07b62ec4-8435-427c-b458-57293eba655b,2025-12-19,RS15,Surgical Masks,Consumable,248,20,11,257,4,Low
+2140de15-57cd-4949-85fc-a1133a0e1802,2025-12-19,RS15,Oxytocin Injection,Maternal,321,8,13,316,4,High
+bc34d97d-1d4a-4477-bd2d-020807590bd7,2025-12-19,RS15,Blood Glucose Strips,Diagnostic,181,4,11,174,2,Medium
+27edbc48-005b-47df-a55d-913abc158a73,2025-12-19,RS15,IV Cannula,Consumable,225,9,7,227,3,Medium
+dcedb859-50ef-4994-b0d2-c11c3486cc14,2025-12-19,RS15,Ringer Lactate,Fluids,286,13,9,290,5,High
+d1e525ec-512f-43f8-b9e5-4789865ad4e7,2025-12-19,RS15,Amoxicillin 500mg,Antibiotic,391,26,13,404,6,Medium
+9fd494da-b028-40c1-b939-06ce0ca8ec99,2025-12-19,RS15,Paracetamol 500mg,General,122,10,7,125,6,Low
+ba1f610e-6317-441c-be12-cadce6624ad6,2025-12-19,RS15,Malaria RDT,Diagnostic,323,7,11,319,3,High
+38f4fa9b-b46c-47eb-9844-a87099daf3ed,2025-12-19,RS15,Disposable Syringes 3ml,Consumable,117,18,18,117,3,Low
+08267084-525b-4944-bc31-e07f34484f1f,2025-12-19,RS15,BCG Vaccine,Vaccine,114,9,7,116,3,High
+cc1963f4-f9ad-4bba-9c26-76a06abd18c9,2025-12-19,RS15,Folic Acid,Maternal,134,14,5,143,2,Low
+a3b863ce-42d9-4bda-ad25-a104fb2d423c,2025-12-19,RS15,Metformin 500mg,Chronic,387,27,12,402,4,Medium
+2f004494-97ba-4104-9324-f9a35052332c,2025-12-19,RS16,Blood Glucose Strips,Diagnostic,281,12,19,274,5,Medium
+18227e4e-7c9d-4eeb-af10-a9b9f77baaa4,2025-12-19,RS16,Folic Acid,Maternal,327,7,23,311,3,Low
+242db87c-d486-4057-b2ac-b339cce37bfe,2025-12-19,RS16,Magnesium Sulfate,Maternal,326,28,7,347,2,High
+54ebc628-ac77-46b1-a292-9b11c54e9bcb,2025-12-19,RS16,Disposable Syringes 3ml,Consumable,241,9,6,244,5,Low
+9bce5883-a465-440f-aae8-d62f050fee94,2025-12-19,RS16,Oxytocin Injection,Maternal,221,0,6,215,4,High
+945255b3-d169-4841-88dc-3834097caa5e,2025-12-19,RS16,BCG Vaccine,Vaccine,203,8,21,190,6,High
+5dec9068-0cf8-43fd-be30-0b18ba9eae92,2025-12-19,RS16,Epinephrine,Emergency,378,18,10,386,3,High
+82841da2-b2f9-4b61-86fb-d343aa85433c,2025-12-19,RS16,Oral Rehydration Salts,General,163,4,24,143,2,Medium
+64340464-3334-4ae5-b91a-3421b65252d1,2025-12-19,RS16,Paracetamol 500mg,General,339,10,24,325,3,Low
+368797ec-4324-488c-9779-4fb05f36f977,2025-12-19,RS16,Azithromycin,Antibiotic,113,9,15,107,4,Medium
+ad513e18-2654-4d91-aa55-c8fd2551e628,2025-12-19,RS16,Polio Vaccine,Vaccine,308,1,25,284,2,High
+4780b04b-44b0-480a-a871-c99323d8b7cf,2025-12-19,RS16,Artemether (Malaria),Infectious,156,6,18,144,6,High
+fd559a3d-2606-443c-bfc7-83b7a5eaf89d,2025-12-19,RS16,Normal Saline 0.9%,Fluids,268,18,23,263,3,Medium
+72d551f0-0ffb-486a-bae0-9f8fa5ecbf3f,2025-12-19,RS16,Sterile Gloves,Consumable,125,0,13,112,5,Low
+f8ba6cb9-5076-413c-a8fe-3830239d3508,2025-12-19,RS16,HIV Rapid Test Kit,Diagnostic,343,30,13,360,4,High
+80c103e4-d50c-4336-982b-0b05706adbbd,2025-12-19,RS16,Amoxicillin 500mg,Antibiotic,365,16,8,373,2,Medium
+5bc53df8-2995-4261-9ab4-534846b462f3,2025-12-19,RS16,Insulin Glargine,Chronic,164,17,12,169,4,High
+a5acb961-1d89-4f8c-9e7c-a5791c5a0f55,2025-12-19,RS16,Metformin 500mg,Chronic,195,19,15,199,5,Medium
+8cab39a4-e787-423c-99a7-e1b2bf2013a3,2025-12-19,RS16,Surgical Masks,Consumable,307,24,10,321,4,Low
+6c06458a-6690-49aa-8180-1d32c5f4a0d1,2025-12-19,RS16,Ringer Lactate,Fluids,251,0,14,237,6,High
+f9983306-78ce-4541-b731-b9b47c9fa822,2025-12-19,RS16,IV Cannula,Consumable,375,2,17,360,4,Medium
+b39777f5-fef4-4018-9fca-e2862c9625ca,2025-12-19,RS16,Amlodipine 5mg,Chronic,120,12,6,126,6,Medium
+448ff201-c3f3-4767-817a-f097d93d04cb,2025-12-19,RS16,Ibuprofen 400mg,General,185,5,16,174,5,Low
+337775fe-d582-4466-9d9d-f68446b6f121,2025-12-19,RS16,Malaria RDT,Diagnostic,204,22,9,217,6,High
+f6c5d055-7541-422a-b164-9190c9ab3bbb,2025-12-19,RS16,TB-Kit Adult,Infectious,130,5,16,119,3,High
+47c5a1cf-14f1-4cfb-a981-a1ac94b4945b,2025-12-19,RS17,Ringer Lactate,Fluids,123,30,8,145,3,High
+5d041151-79db-4738-9869-7b20715bfac1,2025-12-19,RS17,Amlodipine 5mg,Chronic,377,2,23,356,4,Medium
+3fd9862c-7223-489f-8c44-1acc2e46c87f,2025-12-19,RS17,Paracetamol 500mg,General,173,3,19,157,4,Low
+dbd37958-d11d-4397-91fb-6d2849e5bb97,2025-12-19,RS17,Blood Glucose Strips,Diagnostic,158,0,11,147,2,Medium
+0086f49d-2171-4b16-b048-b13de07d47a2,2025-12-19,RS17,Folic Acid,Maternal,373,6,10,369,4,Low
+0644c79d-ac46-4416-8e3e-0766f56c61fe,2025-12-19,RS17,Ibuprofen 400mg,General,304,30,9,325,2,Low
+3e030714-ddb9-49e5-acf6-0749a34f22e2,2025-12-19,RS17,IV Cannula,Consumable,171,17,8,180,6,Medium
+66dd7d6b-7cd2-4f29-a0fa-65f1b42f85c6,2025-12-19,RS17,Magnesium Sulfate,Maternal,268,10,13,265,4,High
+93e560fd-88a2-41ce-97be-94efe2293d77,2025-12-19,RS17,Oxytocin Injection,Maternal,364,17,21,360,5,High
+2d12d393-57e5-4272-a27a-09e15d71ad89,2025-12-19,RS17,Polio Vaccine,Vaccine,292,30,20,302,4,High
+29616a6d-47dc-4420-b3f2-b54525427f9e,2025-12-19,RS17,TB-Kit Adult,Infectious,291,28,12,307,5,High
+a2f1e2ac-c1be-4e6a-9ace-e3215ac6217d,2025-12-19,RS17,Surgical Masks,Consumable,170,5,20,155,2,Low
+b0f298b9-9c6b-4f8e-9b03-61082e5e6d23,2025-12-19,RS17,Insulin Glargine,Chronic,220,2,20,202,3,High
+16c556dc-6004-4955-bbd1-698b39ce4967,2025-12-19,RS17,Amoxicillin 500mg,Antibiotic,260,8,20,248,2,Medium
+e3e49edc-a765-4521-9d04-0dfef63bf47d,2025-12-19,RS17,Oral Rehydration Salts,General,106,18,9,115,3,Medium
+1d6a35b7-af04-4f81-ab12-3e694a63b4bc,2025-12-19,RS17,Disposable Syringes 3ml,Consumable,176,3,8,171,2,Low
+6375d88a-1e21-4d19-b65f-e9d2ab83a33c,2025-12-19,RS17,HIV Rapid Test Kit,Diagnostic,377,15,19,373,4,High
+85dddeb1-08d7-45df-8936-89c9d71ac285,2025-12-19,RS17,Metformin 500mg,Chronic,181,15,14,182,4,Medium
+ea57f6e5-c725-4b08-a194-2a6361338163,2025-12-19,RS17,BCG Vaccine,Vaccine,154,13,9,158,2,High
+71b2fc57-f1fb-447a-9a72-557848c4181c,2025-12-19,RS17,Epinephrine,Emergency,373,30,20,383,6,High
+2aac30f0-a359-4cc7-87e0-9700d76ea331,2025-12-19,RS17,Malaria RDT,Diagnostic,350,25,22,353,6,High
+9c79763c-55e3-438d-ba0a-10e2b1603b93,2025-12-19,RS17,Azithromycin,Antibiotic,182,14,23,173,2,Medium
+a867e55d-ebe5-40a9-8a57-02862a778335,2025-12-19,RS18,Artemether (Malaria),Infectious,290,22,13,299,2,High
+19517dac-7a9e-4436-8b9a-b3ab069bd441,2025-12-19,RS18,Malaria RDT,Diagnostic,363,17,19,361,4,High
+ac76d742-6a09-4feb-8435-4b6c443f37cd,2025-12-19,RS18,Ringer Lactate,Fluids,369,3,25,347,6,High
+dbd41b60-0e6c-488b-864a-f9b841d1b418,2025-12-19,RS18,Surgical Masks,Consumable,163,23,17,169,4,Low
+8a0bb40a-3888-4f5e-bfb0-edcad5a380c2,2025-12-19,RS18,HIV Rapid Test Kit,Diagnostic,349,18,8,359,4,High
+e5aeeccb-cf32-4e1b-9c39-17ac4a92a878,2025-12-19,RS18,Oral Rehydration Salts,General,320,16,9,327,4,Medium
+516a8641-00a1-4ebc-9c82-5ac4ddcbae8e,2025-12-19,RS18,Insulin Glargine,Chronic,311,19,20,310,4,High
+0975c6fb-c635-42e5-9978-d1dc9748bd12,2025-12-19,RS18,Metformin 500mg,Chronic,284,5,18,271,2,Medium
+999103ab-a7e4-419b-94bf-8ff1010e731c,2025-12-19,RS18,BCG Vaccine,Vaccine,157,29,5,181,6,High
+c77d6a32-33c3-404b-a8e6-3d09ef7aa46b,2025-12-19,RS18,Sterile Gloves,Consumable,283,29,12,300,2,Low
+44f1fd2f-bdbf-49ad-a828-7c45f6b76148,2025-12-19,RS18,TB-Kit Adult,Infectious,187,0,9,178,4,High
+1bd0acf6-431b-402c-bb47-ba1a6f0ec057,2025-12-19,RS18,IV Cannula,Consumable,158,7,17,148,5,Medium
+29f50ce3-ebb4-46fd-938e-af623f352b95,2025-12-19,RS18,Polio Vaccine,Vaccine,354,22,11,365,3,High
+aae94375-dfdc-4de9-bd86-6ce09e11ea9b,2025-12-19,RS18,Oxytocin Injection,Maternal,122,19,5,136,5,High
+fa1f847b-d42d-4c8f-989b-428ab10152fe,2025-12-19,RS18,Disposable Syringes 3ml,Consumable,246,19,7,258,4,Low
+52990d9b-e654-4029-ade5-fb9d7480e946,2025-12-19,RS18,Amlodipine 5mg,Chronic,397,13,18,392,5,Medium
+3682d593-ca49-45b7-85ac-cdd98bad8d36,2025-12-19,RS18,Normal Saline 0.9%,Fluids,201,2,5,198,6,Medium
+4e3f1393-e6f7-4eaf-bf15-54bea0dc18c8,2025-12-19,RS18,Magnesium Sulfate,Maternal,188,15,18,185,3,High
+107e1bf2-dd64-4f45-87c4-db6eb846ea28,2025-12-19,RS18,Blood Glucose Strips,Diagnostic,238,28,14,252,3,Medium
+b465eda9-429a-4fed-989f-fbdb98fd46bf,2025-12-19,RS18,Paracetamol 500mg,General,295,8,10,293,6,Low
+ea510c15-f6dc-43a8-b53d-374b3aae6f69,2025-12-19,RS18,Epinephrine,Emergency,126,14,20,120,5,High
+2d92f285-56e5-4d3d-ae86-d505380c4a4b,2025-12-19,RS18,Amoxicillin 500mg,Antibiotic,187,21,16,192,2,Medium
+a17511a0-ee2e-4268-a3ae-ae969d1c67e8,2025-12-19,RS18,Azithromycin,Antibiotic,107,5,10,102,6,Medium
+2a44ebf1-7271-4a1f-81cc-35790c06a50e,2025-12-19,RS18,Ibuprofen 400mg,General,179,1,17,163,4,Low
+4453ed25-f953-45ae-ba46-7da06463b9c0,2025-12-19,RS19,Oxytocin Injection,Maternal,382,26,14,394,6,High
+f9c5af51-2a18-43ff-89d4-350942c8def2,2025-12-19,RS19,Ibuprofen 400mg,General,390,17,19,388,4,Low
+4595eab6-c1bf-4f4f-92b2-382b150e7e1d,2025-12-19,RS19,Amlodipine 5mg,Chronic,218,22,17,223,2,Medium
+f63c5e49-8ae9-4aa8-b1d6-0f9fdffccaf5,2025-12-19,RS19,Folic Acid,Maternal,211,3,18,196,6,Low
+92aa4a2b-a730-4e69-bb78-10b12b4fd941,2025-12-19,RS19,Normal Saline 0.9%,Fluids,329,5,18,316,6,Medium
+953bf8c4-f97a-4349-a833-1323872a8345,2025-12-19,RS19,TB-Kit Adult,Infectious,323,5,25,303,6,High
+248f42a9-50a5-4d98-820a-30c4907cc8e7,2025-12-19,RS19,Magnesium Sulfate,Maternal,114,14,18,110,6,High
+954954f3-6f46-41ac-8a6c-913ecd893d83,2025-12-19,RS19,Sterile Gloves,Consumable,250,10,8,252,6,Low
+9bf3b5e0-020a-4ed9-88f9-20341e1802e1,2025-12-19,RS19,Surgical Masks,Consumable,399,19,8,410,3,Low
+9dfc6199-21f7-4bbc-aba4-f0cc5651b670,2025-12-19,RS19,Insulin Glargine,Chronic,255,3,9,249,2,High
+f7339b96-f2cb-4e17-b1dc-b1452309c429,2025-12-19,RS19,Epinephrine,Emergency,136,8,15,129,6,High
+d318d3cd-e63b-40f5-8e2c-8fc9e6262023,2025-12-19,RS19,Polio Vaccine,Vaccine,131,24,25,130,4,High
+5acecb72-1e1a-4482-a147-9140163f5263,2025-12-19,RS19,Disposable Syringes 3ml,Consumable,131,6,22,115,3,Low
+2c93d7e6-05d5-4361-a524-c5daf3a5c267,2025-12-19,RS19,BCG Vaccine,Vaccine,209,1,14,196,2,High
+36e4505b-978a-4fb0-9d62-4dea0c0cd977,2025-12-19,RS19,Artemether (Malaria),Infectious,184,11,16,179,3,High
+6ba223cd-7502-4229-99f3-b3c82f5580a0,2025-12-19,RS19,Oral Rehydration Salts,General,242,5,17,230,6,Medium
+b2e292d8-615c-4e81-a990-d424e4e72e87,2025-12-19,RS19,Ringer Lactate,Fluids,225,14,10,229,5,High
+70ef7b0e-bf7d-4a98-bed9-4127187b113a,2025-12-19,RS19,IV Cannula,Consumable,233,5,25,213,2,Medium
+17000043-33ae-452b-89f7-15557694e253,2025-12-19,RS19,Blood Glucose Strips,Diagnostic,323,22,24,321,5,Medium
+f9be9bad-ba3a-4f86-91fe-fac170ab1255,2025-12-19,RS19,Azithromycin,Antibiotic,308,20,17,311,4,Medium
+f09f5e44-fdca-44e3-81df-6eaf69a36fec,2025-12-19,RS19,Amoxicillin 500mg,Antibiotic,188,16,14,190,6,Medium
+4ccd9424-41fa-488c-b6b1-10ab7d344229,2025-12-19,RS19,Malaria RDT,Diagnostic,295,20,24,291,6,High
+017a7ec5-de75-48b1-8930-63e03b31cbd5,2025-12-19,RS19,Metformin 500mg,Chronic,169,23,22,170,2,Medium
+ce4f76eb-be0a-4249-9923-0694c9704eb2,2025-12-19,RS19,HIV Rapid Test Kit,Diagnostic,245,11,22,234,4,High
+0b4171c7-71bc-4c66-9b29-4e3acd456c4f,2025-12-19,RS19,Paracetamol 500mg,General,351,24,25,350,3,Low
+ff6be430-9037-44a3-9127-27b9148f3ddf,2025-12-19,RS20,Epinephrine,Emergency,267,3,7,263,2,High
+9712f4cf-9f8a-46d4-b84b-c008350dd887,2025-12-19,RS20,Artemether (Malaria),Infectious,288,26,11,303,6,High
+c666d8fb-e2a4-4661-8b56-4e04cdd96957,2025-12-19,RS20,Magnesium Sulfate,Maternal,164,7,18,153,4,High
+7e9b3268-4571-4592-b3d1-2d47a1b3d4a3,2025-12-19,RS20,HIV Rapid Test Kit,Diagnostic,278,7,10,275,4,High
+6779bf6e-0a3b-46af-8135-d8891fcd21a6,2025-12-19,RS20,Ibuprofen 400mg,General,189,4,12,181,2,Low
+c7fcfe42-868b-4737-802e-496a3c8d26f6,2025-12-19,RS20,Malaria RDT,Diagnostic,317,2,9,310,3,High
+237aaa2a-f0e3-45c6-8d4a-d3c1a34ff42e,2025-12-19,RS20,Insulin Glargine,Chronic,160,18,15,163,4,High
+29590da3-9f1e-4c48-97ec-2f9bf17b6086,2025-12-19,RS20,IV Cannula,Consumable,329,18,25,322,4,Medium
+d27fac34-2b0b-4a46-87fa-c581776e87b6,2025-12-19,RS20,Folic Acid,Maternal,381,26,22,385,4,Low
+880bdb50-b2f3-494a-81fc-4e1e5f700b6b,2025-12-19,RS20,Sterile Gloves,Consumable,127,2,12,117,3,Low
+450caee8-8bb9-44d3-8f9e-272410e64975,2025-12-19,RS20,Oxytocin Injection,Maternal,381,8,7,382,2,High
+3336a964-0f1a-4f4c-a6f3-f6cdf94df6bf,2025-12-19,RS20,Metformin 500mg,Chronic,219,23,17,225,4,Medium
+b4d46f0f-7353-469a-84e5-974adc730546,2025-12-19,RS20,Oral Rehydration Salts,General,214,14,21,207,5,Medium
+c03527db-0380-4063-aea0-d96a54cbaa65,2025-12-19,RS20,Polio Vaccine,Vaccine,359,7,19,347,6,High
+e2e9434f-b185-4112-8747-a8f162e6d65e,2025-12-19,RS20,Azithromycin,Antibiotic,356,12,7,361,6,Medium
+06df14dc-0fa7-4bf2-95a7-6d162b45d167,2025-12-19,RS20,TB-Kit Adult,Infectious,261,30,21,270,4,High
+8dae8624-9695-4e64-9c52-c49206cfaec4,2025-12-19,RS20,Ringer Lactate,Fluids,194,22,13,203,3,High
+7130c98d-a2a3-41b4-9e71-376d0a17c62a,2025-12-19,RS20,Amlodipine 5mg,Chronic,129,9,25,113,6,Medium
+03f0a362-0151-48f4-af70-0135729408ee,2025-12-19,RS20,Amoxicillin 500mg,Antibiotic,204,6,6,204,5,Medium
+ecc23c4c-20c0-4eff-8a38-adf8ff5f5bb9,2025-12-19,RS20,BCG Vaccine,Vaccine,159,28,12,175,3,High
+3f3454ac-de34-43f7-aca2-7ede097121c9,2025-12-19,RS20,Paracetamol 500mg,General,168,11,12,167,5,Low
+ba8ae641-a41a-4fb7-8182-1c2b6cacafca,2025-12-19,RS21,Ringer Lactate,Fluids,343,29,18,354,4,High
+29663947-749e-4f39-9870-035c02da6258,2025-12-19,RS21,Malaria RDT,Diagnostic,162,15,25,152,4,High
+eaea1d95-4d88-47a5-adee-f1545c18751a,2025-12-19,RS21,Surgical Masks,Consumable,293,11,16,288,3,Low
+7a4590ac-8eb7-4feb-be59-4da64505f01f,2025-12-19,RS21,Amoxicillin 500mg,Antibiotic,199,29,5,223,4,Medium
+dbe3fb82-2db1-4b78-afde-48b6dd504b71,2025-12-19,RS21,Artemether (Malaria),Infectious,379,7,25,361,2,High
+b6f69e6c-68a3-4782-a140-6105361ad370,2025-12-19,RS21,HIV Rapid Test Kit,Diagnostic,163,26,6,183,5,High
+e4c04031-0149-4d00-8729-eeed8f617224,2025-12-19,RS21,Disposable Syringes 3ml,Consumable,358,1,13,346,6,Low
+e35eafea-ce1d-4177-9537-dc01894275ed,2025-12-19,RS21,Azithromycin,Antibiotic,135,2,10,127,6,Medium
+a65b9a6c-2771-43a6-acc2-8fcb03539d2e,2025-12-19,RS21,Ibuprofen 400mg,General,251,14,9,256,6,Low
+775943a3-3010-4f97-870f-6a626ae9ab11,2025-12-19,RS21,Oxytocin Injection,Maternal,286,15,15,286,5,High
+649eb1f7-2016-40b8-92bf-c198eacfa466,2025-12-19,RS21,Paracetamol 500mg,General,293,13,11,295,3,Low
+d18d4047-d3d2-4e06-8add-75b61e15e286,2025-12-19,RS21,IV Cannula,Consumable,229,2,11,220,6,Medium
+c76ac307-8a2c-4350-852a-f51cbaac3c33,2025-12-19,RS21,Insulin Glargine,Chronic,276,15,18,273,2,High
+08880c8f-2ccd-44af-9bc7-1eb1efd468cc,2025-12-19,RS21,BCG Vaccine,Vaccine,289,21,14,296,3,High
+eb31a6bc-a86d-4dfc-993c-93dec6902954,2025-12-19,RS21,Blood Glucose Strips,Diagnostic,298,25,25,298,4,Medium
+509765fa-634e-40af-b2d2-4a54eab6a4de,2025-12-19,RS21,TB-Kit Adult,Infectious,283,10,8,285,2,High
+54d9bac8-cf25-4993-b592-8596cdd3124f,2025-12-19,RS21,Folic Acid,Maternal,209,5,19,195,5,Low
+1ccd37db-3fe8-4b84-8e09-96dcece5bc39,2025-12-19,RS21,Sterile Gloves,Consumable,307,21,7,321,3,Low
+34eaf934-5386-4f92-af27-29b151704b2f,2025-12-19,RS21,Magnesium Sulfate,Maternal,358,22,17,363,4,High
+efc8845e-2883-480e-9f35-aff5bc046887,2025-12-19,RS21,Oral Rehydration Salts,General,137,11,23,125,4,Medium
+c5e7fac9-2098-4c2e-b1a6-3e81dcf1c6d6,2025-12-19,RS21,Epinephrine,Emergency,210,0,6,204,3,High
+a8c47585-2fc8-49ba-a2e7-9cbd376e216f,2025-12-19,RS22,Epinephrine,Emergency,362,22,12,372,5,High
+903d2652-12ce-4db8-8c7d-b57c1eb50ca3,2025-12-19,RS22,Paracetamol 500mg,General,354,8,6,356,6,Low
+904b5e37-aba0-4368-82d9-9dfd558a47b0,2025-12-19,RS22,HIV Rapid Test Kit,Diagnostic,243,11,20,234,6,High
+58628ee6-6b5e-45bb-a7d7-5cb8c2986b43,2025-12-19,RS22,Magnesium Sulfate,Maternal,291,22,5,308,3,High
+cea8e816-5faf-485e-ad3e-c0aa0a9f1ea0,2025-12-19,RS22,Surgical Masks,Consumable,348,5,10,343,4,Low
+725b6868-f1a9-4325-b143-d6b9eeb1b2f7,2025-12-19,RS22,Metformin 500mg,Chronic,139,19,14,144,6,Medium
+f5232481-a1b9-4203-9ae4-c03ea4ddfbf6,2025-12-19,RS22,Azithromycin,Antibiotic,132,17,25,124,3,Medium
+a7d62da9-344e-419c-a7db-a1880529e9e2,2025-12-19,RS22,Insulin Glargine,Chronic,302,27,18,311,6,High
+fb834bb8-c103-4205-9d2c-c3490c5bfb75,2025-12-19,RS22,Artemether (Malaria),Infectious,321,25,9,337,3,High
+7405ad1f-6f90-48bf-a368-21a6f45e34a8,2025-12-19,RS22,Oxytocin Injection,Maternal,141,22,22,141,6,High
+4ad1a383-325f-4538-98cf-87a536bfe37f,2025-12-19,RS22,IV Cannula,Consumable,277,27,21,283,5,Medium
+ce4de44a-da86-4d0d-8e26-83a11f33f677,2025-12-19,RS22,Ringer Lactate,Fluids,291,16,22,285,2,High
+ede70a49-3fa1-4062-bb72-807fe1ad4080,2025-12-19,RS22,Ibuprofen 400mg,General,251,17,22,246,6,Low
+d2077455-d8f6-41c4-9777-473e46f5245f,2025-12-19,RS22,Disposable Syringes 3ml,Consumable,167,10,24,153,2,Low
+89ffe9d9-a6e5-4331-b588-0b7ad41c1b1b,2025-12-19,RS22,BCG Vaccine,Vaccine,288,13,12,289,5,High
+4bc7161d-199b-457d-b188-068ee0828ccf,2025-12-19,RS22,Sterile Gloves,Consumable,297,3,18,282,2,Low
+cf31e4ff-a1b1-49c9-8f57-4bd00d87a6d5,2025-12-19,RS22,Amlodipine 5mg,Chronic,378,21,24,375,3,Medium
+864d5169-4389-4355-90d6-86178a664296,2025-12-19,RS22,Blood Glucose Strips,Diagnostic,265,28,7,286,5,Medium
+d2c245e7-c207-4116-b62b-32553c8789dd,2025-12-19,RS22,Oral Rehydration Salts,General,113,4,16,101,6,Medium
+7daec940-ba9a-46c1-abcc-195b7ea6b1c3,2025-12-19,RS22,Normal Saline 0.9%,Fluids,231,7,19,219,3,Medium
+e484b6a8-12f3-4c95-ba11-2de5be996bd4,2025-12-19,RS22,TB-Kit Adult,Infectious,333,14,16,331,3,High
+e8af6450-81de-4f74-af57-54319ab620f8,2025-12-19,RS22,Folic Acid,Maternal,113,1,7,107,3,Low
+16e44469-873d-4997-91aa-91cafb3501d8,2025-12-19,RS22,Malaria RDT,Diagnostic,103,0,24,79,2,High
+f3df4f9f-e49b-46cb-a03d-27708b9d2c0c,2025-12-19,RS22,Amoxicillin 500mg,Antibiotic,181,3,22,162,2,Medium
+0df884d6-213e-43dc-8e06-bfe461d16b34,2025-12-19,RS22,Polio Vaccine,Vaccine,368,6,17,357,6,High
+3a5cf96c-96cf-4a36-8f25-4ca7ea9eb27f,2025-12-19,RS23,BCG Vaccine,Vaccine,328,9,22,315,5,High
+3b0cdba1-12fd-435b-8648-7388b4631588,2025-12-19,RS23,Artemether (Malaria),Infectious,276,17,15,278,2,High
+459b71e3-c802-4a95-98ce-f4d716baeef1,2025-12-19,RS23,Blood Glucose Strips,Diagnostic,389,4,21,372,5,Medium
+429a6526-a278-42ac-8d8e-011395f42fce,2025-12-19,RS23,Ringer Lactate,Fluids,112,20,13,119,5,High
+e1ce44cb-d7cf-4e5f-9620-906e1e9d5481,2025-12-19,RS23,Magnesium Sulfate,Maternal,167,6,19,154,2,High
+4fcdbd64-d944-4b40-9e98-94e7e68f93bb,2025-12-19,RS23,Normal Saline 0.9%,Fluids,234,28,11,251,3,Medium
+351aada1-a7b9-4709-bedf-d977f3985e0a,2025-12-19,RS23,Amoxicillin 500mg,Antibiotic,372,29,21,380,4,Medium
+2ef45d8a-9746-4613-be43-df48a43a702d,2025-12-19,RS23,IV Cannula,Consumable,168,3,20,151,2,Medium
+1e506629-6805-44a2-b4da-a307745c9c1c,2025-12-19,RS23,Amlodipine 5mg,Chronic,294,27,21,300,2,Medium
+e6ae11cc-ce54-445e-a492-5193b197e6a5,2025-12-19,RS23,Oxytocin Injection,Maternal,383,24,8,399,2,High
+e19f4888-a392-4209-a3ba-4141c6645314,2025-12-19,RS23,Azithromycin,Antibiotic,307,6,10,303,2,Medium
+792795f9-a8a1-458f-b959-1a6ff5c89d7a,2025-12-19,RS23,Disposable Syringes 3ml,Consumable,243,26,5,264,6,Low
+15d92358-f7aa-4ef1-9ddb-a0b228008030,2025-12-19,RS23,Surgical Masks,Consumable,192,12,19,185,2,Low
+cc541352-8c95-4a43-a984-db7be1541700,2025-12-19,RS23,HIV Rapid Test Kit,Diagnostic,384,4,22,366,2,High
+668b36e0-897d-42b6-909f-387d0b8afc2d,2025-12-19,RS23,Folic Acid,Maternal,275,4,24,255,6,Low
+34a03252-e449-4f81-9636-2ef960b48477,2025-12-19,RS23,Metformin 500mg,Chronic,166,0,11,155,6,Medium
+b5fa3321-14a3-4a36-9862-27f718e1d669,2025-12-19,RS23,Malaria RDT,Diagnostic,364,6,9,361,2,High
+ce734239-54ba-4769-a373-af92464fec95,2025-12-19,RS23,Epinephrine,Emergency,264,27,22,269,4,High
+04bc54fa-988c-4756-b70d-4c395b5a4909,2025-12-19,RS23,Ibuprofen 400mg,General,324,28,16,336,4,Low
+da214aad-32ca-4d2d-ad87-581e8aba292b,2025-12-19,RS23,Polio Vaccine,Vaccine,161,11,6,166,2,High
+17cf0506-7cb8-46b0-9cd2-2702e73caca8,2025-12-19,RS23,Insulin Glargine,Chronic,397,0,24,373,4,High
+2548a0f1-c766-48ac-8901-b5b333bb37e8,2025-12-19,RS23,Oral Rehydration Salts,General,210,0,19,191,6,Medium
+1669cc29-384b-4813-8384-368e069a54b3,2025-12-19,RS23,Paracetamol 500mg,General,373,23,21,375,3,Low
+1db5e94f-ba6a-4a2e-98fb-a7f49fd72c5b,2025-12-19,RS23,TB-Kit Adult,Infectious,171,17,20,168,3,High
+412eb36c-882b-42f3-b4bf-1ccaf918ebac,2025-12-19,RS23,Sterile Gloves,Consumable,118,24,9,133,2,Low
+d4e4ab40-2148-47d3-ac42-aec1893458b8,2025-12-19,RS24,Epinephrine,Emergency,121,17,7,131,3,High
+df6d2e8d-28d3-41d6-b839-750913152122,2025-12-19,RS24,Sterile Gloves,Consumable,128,3,13,118,6,Low
+75f08522-f166-4b37-9724-091bbf4caadd,2025-12-19,RS24,Ringer Lactate,Fluids,363,15,19,359,5,High
+f8191187-a58f-4dee-96f7-7760144a0f89,2025-12-19,RS24,Paracetamol 500mg,General,191,9,18,182,5,Low
+6cdab153-c74f-4e34-88e4-7f95ff9d8987,2025-12-19,RS24,Metformin 500mg,Chronic,302,8,6,304,4,Medium
+1bbf0566-d8a5-453c-865e-541f6e9877c3,2025-12-19,RS24,Magnesium Sulfate,Maternal,110,24,6,128,4,High
+0aca5913-0c93-4706-827f-64f439051089,2025-12-19,RS24,Ibuprofen 400mg,General,268,30,18,280,3,Low
+10be47e2-faf1-4ae3-8955-385d734fc4de,2025-12-19,RS24,Folic Acid,Maternal,353,6,9,350,3,Low
+d0372235-9eb5-4c63-a436-3d2b3d585eba,2025-12-19,RS24,Polio Vaccine,Vaccine,166,0,16,150,2,High
+d2247399-1836-49cf-ac85-d0a3fda0a566,2025-12-19,RS24,Artemether (Malaria),Infectious,151,30,24,157,5,High
+aa00bf83-4e51-485d-b92e-795ec12d05f8,2025-12-19,RS24,BCG Vaccine,Vaccine,153,3,15,141,4,High
+31c71074-093b-413d-9422-6acd4e282879,2025-12-19,RS24,IV Cannula,Consumable,332,24,5,351,3,Medium
+e5d41c6a-a17b-44d3-8a8a-4b0d71524601,2025-12-19,RS24,Amoxicillin 500mg,Antibiotic,262,21,14,269,3,Medium
+fc7653f6-e226-4627-9f00-05eedf29ba4b,2025-12-19,RS24,Normal Saline 0.9%,Fluids,204,9,17,196,2,Medium
+23cc5e82-4863-480e-9758-a9c05c248127,2025-12-19,RS24,Malaria RDT,Diagnostic,360,20,23,357,6,High
+de3e3110-89b2-4772-a37a-3132c571c886,2025-12-19,RS24,Blood Glucose Strips,Diagnostic,251,11,18,244,4,Medium
+393eecbc-92fc-451b-b339-6e74a1ec7b58,2025-12-19,RS24,Amlodipine 5mg,Chronic,347,22,21,348,2,Medium
+a0d507bb-7e96-425b-a70e-537143ae4297,2025-12-19,RS24,Insulin Glargine,Chronic,308,1,10,299,4,High
+1064aede-ab7c-40cd-b295-7a1732e660e6,2025-12-19,RS24,Disposable Syringes 3ml,Consumable,119,20,23,116,3,Low
+7a56ab94-2d2b-4502-9c1e-38de385e26dc,2025-12-19,RS24,Oral Rehydration Salts,General,113,20,16,117,3,Medium
+fc30df09-a3cb-4833-8d17-5e279402da9b,2025-12-19,RS24,Azithromycin,Antibiotic,186,5,25,166,2,Medium
+fb320c22-2284-439c-8779-4f717f4ac427,2025-12-19,RS24,Surgical Masks,Consumable,249,22,14,257,2,Low
+c75b9aa3-3c27-4d13-98b9-745133b58c83,2025-12-19,RS24,TB-Kit Adult,Infectious,100,21,9,112,4,High
+c94e6980-c9ae-4e4c-88a7-71a8f7627e17,2025-12-19,RS25,Surgical Masks,Consumable,129,18,15,132,4,Low
+ec6bccc1-dea1-4dca-ac3b-fed9e73ff422,2025-12-19,RS25,Polio Vaccine,Vaccine,147,13,25,135,6,High
+6ec4b51a-c064-425e-a047-5918fc439187,2025-12-19,RS25,Blood Glucose Strips,Diagnostic,216,19,9,226,2,Medium
+f7e09a30-3cd0-41bb-9c38-0f5922eb8e79,2025-12-19,RS25,Epinephrine,Emergency,367,7,25,349,5,High
+5269f8c4-9e52-4dde-9634-cdb7b40c56de,2025-12-19,RS25,HIV Rapid Test Kit,Diagnostic,230,11,6,235,2,High
+e433e481-bc1e-4f26-ad37-a43c33768d42,2025-12-19,RS25,Azithromycin,Antibiotic,340,21,18,343,4,Medium
+82d05572-e6db-4074-b404-f7af39a1e2be,2025-12-19,RS25,Artemether (Malaria),Infectious,180,23,8,195,3,High
+4b6c513a-299d-4586-ad1c-6b83e43dea9f,2025-12-19,RS25,Insulin Glargine,Chronic,207,8,22,193,3,High
+c7f900d9-fddb-43eb-9cf1-a1371846d94f,2025-12-19,RS25,Magnesium Sulfate,Maternal,180,30,15,195,6,High
+e1e1d6be-77a9-4347-9e41-103023dff4e8,2025-12-19,RS25,Amoxicillin 500mg,Antibiotic,158,6,8,156,2,Medium
+63c31331-9d22-45f6-8cc4-2687a390bc1a,2025-12-19,RS25,Metformin 500mg,Chronic,116,20,8,128,3,Medium
+4552f219-8525-40be-bc52-c896e941ae28,2025-12-19,RS25,BCG Vaccine,Vaccine,400,27,19,408,6,High
+a0f97e54-7c3f-472e-bbaf-9ce56ac75654,2025-12-19,RS25,Folic Acid,Maternal,334,15,9,340,4,Low
+26f47aa1-a89c-4391-87dc-08c0ce408384,2025-12-19,RS25,IV Cannula,Consumable,232,14,22,224,4,Medium
+f947e881-d336-42fa-8755-c17bb2b4fe7e,2025-12-19,RS25,Sterile Gloves,Consumable,157,22,8,171,4,Low
+d423d060-49a6-4c03-908d-61b215178d87,2025-12-19,RS25,Malaria RDT,Diagnostic,157,7,16,148,5,High
+e69aa89a-fc5d-4ed0-963a-3757b3ada9f0,2025-12-19,RS25,Normal Saline 0.9%,Fluids,197,17,8,206,3,Medium
+8545e820-767d-4b0e-9948-a4876eb43a4d,2025-12-19,RS25,Disposable Syringes 3ml,Consumable,334,17,17,334,6,Low
+9810ddeb-bd6f-4823-bc0d-a1574e1c18e0,2025-12-19,RS25,TB-Kit Adult,Infectious,396,16,14,398,5,High
+630380df-939e-45cd-9347-88c5e77343dc,2025-12-19,RS25,Amlodipine 5mg,Chronic,257,17,18,256,2,Medium
+72eab409-32af-47cf-a929-574324b9a88d,2025-12-19,RS25,Ringer Lactate,Fluids,339,22,13,348,5,High
+9ccc7d52-160e-4915-b23c-4bab120d3789,2025-12-19,RS25,Oral Rehydration Salts,General,125,16,10,131,6,Medium
+ca0419e5-ecc8-4723-ae3e-d589bcee128e,2025-12-19,RS25,Paracetamol 500mg,General,220,24,8,236,6,Low

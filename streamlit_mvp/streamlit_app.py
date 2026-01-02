@@ -46,25 +46,42 @@ def load_data():
     return df_inv, df_reorder
 
 def find_nearest_neighbors(victim_id, item_name):
-    query = f"""
+    """
+    Robust version: Uses parameters to prevent SQL injection/errors 
+    and constructs GeoPoints on the fly to avoid 'Invalid Identifier' errors.
+    """
+    # We construct the point manually using LONGITUDE/LATITUDE to be safe
+    # We also use '?' for parameters instead of f-strings
+    query = """
     SELECT 
         neighbor.FACILITY_NAME as SAVIOR_NAME,
         neighbor.LATITUDE as SAVIOR_LAT,
         neighbor.LONGITUDE as SAVIOR_LON,
         inv.CLOSING_STOCK as AVAILABLE_STOCK,
-        ROUND(ST_DISTANCE(source.GEO_POINT, neighbor.GEO_POINT) / 1000, 1) as DISTANCE_KM
+        ROUND(
+            ST_DISTANCE(
+                ST_MAKEPOINT(source.LONGITUDE, source.LATITUDE), 
+                ST_MAKEPOINT(neighbor.LONGITUDE, neighbor.LATITUDE)
+            ) / 1000, 1
+        ) as DISTANCE_KM
     FROM FACILITIES source
     JOIN FACILITIES neighbor 
         ON source.FACILITY_ID != neighbor.FACILITY_ID
     JOIN INVENTORY_DAILY_PREDICTED inv 
         ON neighbor.FACILITY_ID = inv.FACILITY_ID
-    WHERE source.FACILITY_ID = '{victim_id}'
-      AND inv.ITEM_NAME = '{item_name}'
+    WHERE source.FACILITY_ID = ?
+      AND inv.ITEM_NAME = ?
       AND inv.CLOSING_STOCK > 100 
     ORDER BY DISTANCE_KM ASC
     LIMIT 3;
     """
-    return session.sql(query).to_pandas()
+    
+    # Run query with safe parameters
+    try:
+        return session.sql(query, params=[victim_id, item_name]).to_pandas()
+    except Exception as e:
+        st.error(f"SQL Error: {e}")
+        return pd.DataFrame() # Return empty DF to prevent crash
 
 def run_chat_action(user_query, valid_items):
     """

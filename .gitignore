@@ -11,3 +11,6 @@ wheels/
 
 # Streamlit specific
 .streamlit/
+
+*.png
+*.pptx
